@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_page3.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-xxhdpi\\ic_page3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_page4.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-xxhdpi\\ic_page4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_page1.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-xxhdpi\\ic_page1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_indicator_unfocused.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-xxhdpi\\ic_indicator_unfocused.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_page2.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-xxhdpi\\ic_page2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_indicator_focused.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-xxhdpi\\ic_indicator_focused.png"
+    }
+]

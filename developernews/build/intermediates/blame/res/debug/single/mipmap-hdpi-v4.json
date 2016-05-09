@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_my_subscription.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_my_subscription.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_item_like.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\ic_item_like.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_settings.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_settings.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_search_white.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\ic_search_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_create_subject.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_create_subject.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_menu_white.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\ic_menu_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_created_subjects.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_created_subjects.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_feedback.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_feedback.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_gift.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_gift.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_cooperation.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_cooperation.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_my_shares.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_my_shares.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_item_comment.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\ic_item_comment.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_my_favorite.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_my_favorite.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_icon_home.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-hdpi\\nav_icon_home.png"
+    }
+]

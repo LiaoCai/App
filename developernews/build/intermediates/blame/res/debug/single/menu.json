@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\menu\\menu_toolbar.xml",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\menu\\menu_toolbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\menu\\menu_browser_content.xml",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\menu\\menu_browser_content.xml"
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="launcher_images">
+        <item>@mipmap/ic_page1</item>
+        <item>@mipmap/ic_page2</item>
+        <item>@mipmap/ic_page3</item>
+        <item>@mipmap/ic_page4</item>
+    </integer-array>
+
+    <array name="home_page_title">
+        <item>@string/left_title</item>
+        <item>@string/middle_title</item>
+        <item>@string/right_title</item>
+    </array>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_menu_back.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-mdpi\\ic_menu_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_menu_share_holo_dark.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-mdpi\\ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\App\\developernews\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\App\\developernews\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_share"
+        android:title="分享"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_menu_share_holo_dark">
+    </item>
+
+    <item
+        android:id="@+id/action_item_refresh"
+        android:title="刷新"
+        app:showAsAction="never"
+        android:orderInCategory="1">
+    </item>
+
+    <item
+        android:id="@+id/action_item_open_use_browser"
+        android:title="用浏览器打开"
+        app:showAsAction="never"
+        android:orderInCategory="2">
+    </item>
+
+    <item
+        android:id="@+id/action_item_report"
+        android:title="举报"
+        app:showAsAction="never"
+        android:orderInCategory="3">
+    </item>
+
+</menu>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:padding="8dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        style="@style/LargeTextBlack"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:text="@string/title"/>
+
+    <ImageView
+        android:id="@+id/ivHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:src="@mipmap/ic_default_avatar"/>
+
+    <TextView
+        android:id="@+id/tvFrom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        style="@style/NormalTextBlack"
+        android:layout_marginEnd="10dp"
+        android:layout_toStartOf="@+id/tvName"
+        android:text="@string/from"/>
+
+    <TextView
+        android:id="@+id/tvName"
+        style="@style/NormalTextBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:text="@string/name"/>
+
+    <TextView
+        android:id="@+id/tvLike"
+        style="@style/NormalTextBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="10dp"
+        android:drawablePadding="5dp"
+        android:drawableStart="@mipmap/ic_item_like"
+        android:text="@string/like"/>
+
+    <TextView
+        android:id="@+id/tvComment"
+        style="@style/NormalTextBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@+id/tvLike"
+        android:drawablePadding="5dp"
+        android:drawableStart="@mipmap/ic_item_comment"
+        android:text="@string/comment"/>
+</RelativeLayout>
